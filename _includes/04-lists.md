@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# Here is list of my coding 
+- C#
+- ASP.NET
+- Javascript
+- Web Designing
