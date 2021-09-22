@@ -1,1 +1,19 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+Below is a List of my **Technicqal Skills**:
+
+## Programing Languages
+- C
+- C++
+- C Sharp
+- HTML
+- CSS
+- Bootstrap
+- Javascript
+- Ajax
+- ASP.Net
+- VB.Net
+
+## Collaboration
+- Github
+- C# Corner
+- Youtube
